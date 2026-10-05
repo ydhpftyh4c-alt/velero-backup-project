@@ -1,0 +1,15 @@
+# Секреты
+*.secret.yaml
+*credentials*.yaml
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Временные файлы и логи
+*.log
+*.tar.gz
+/tmp/
